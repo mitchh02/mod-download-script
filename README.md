@@ -8,6 +8,7 @@ Python
 Firefox
 
 THIS WILL LEAVE 1 TAB OPEN FOR EACH MOD
+
 EACH MOD IS PLACED IN THE DOWNLOADS FOLDER
 
 1. Clear downloads folder
