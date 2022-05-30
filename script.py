@@ -1,3 +1,5 @@
+#Programmed by mitchh02 on github
+
 import os
 import time
 mods = []
