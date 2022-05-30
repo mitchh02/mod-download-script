@@ -1,6 +1,8 @@
 # mod-download-script
 Downloads mods from a manifest.json file into the downloads folder
 
+Don't copy my stuff without permission
+
 Dependencies:
 Python
 Firefox
