@@ -13,3 +13,5 @@ EACH MOD IS PLACED IN THE DOWNLOADS FOLDER
 1. Clear downloads folder
 2. Run the script in the same directory as the manifest.json file
 3. Copy mods from the downloads folder to wherever you want them
+
+CHECK MODS AFTERWARDS TO VERIFY EVERYTHING DOWNLOADED
